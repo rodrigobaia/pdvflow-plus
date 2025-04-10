@@ -1,2 +1,2 @@
 # pdvflow-plus
-projeto de frente de caixa, desenvolvido em .net 8 WPF + prism
+projeto de frente de caixa, desenvolvido em Windows Forms C# .net Framework 4.8.1
